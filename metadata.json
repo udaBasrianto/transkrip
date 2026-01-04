@@ -1,0 +1,7 @@
+{
+  "name": "EchoRefine - Audio Transcription & Polishing Studio",
+  "description": "A professional-grade transcription tool that converts audio/video to text and automatically refines the transcript for clarity and flow using advanced Gemini AI.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
